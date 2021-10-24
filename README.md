@@ -12,11 +12,11 @@
 
 <h2>Information Collection and Use</h2>
 
-<p>For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.</p>
+<p>For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and your email. The information that we collect will be used to contact or identify you.</p>
 
 <h2>Log Data</h2>
 
-<p>We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol ("IP") address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.</p>
+<p>We want to inform you that whenever you visit our Service, we collect location that your browser sends to us that is called Log Data. This Log Data include information such as your latitude and longitude on maps so that our app may work properly.</p>
 
 <h2>Cookies</h2>
 
